@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi 👋 I'm Bheru Lal Meghwal
 
-<!--
-**BheruLalM/BheruLalM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Software Engineer and MCA student passionate about
+system design, backend architecture, and scalable software systems.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- Languages: Python, JavaScript, Java, C, SQL
+- Backend: FastAPI, Express.js
+- Frontend: React, Tailwind CSS
+- Databases: PostgreSQL, MongoDB, Redis
+- Tools: Git, Docker, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On
+- Designing scalable backend systems
+- Improving system design fundamentals
+- Building full-stack projects with clean architecture
+
+### 📌 Projects
+- **EduStore** – Scalable educational platform (Backend-focused)
+- **FilmiWorld** – Entertainment discovery platform
+
+### 🌐 Links
+- Portfolio: https://your-vercel-site.vercel.app
+- LinkedIn: https://linkedin.com/in/bheru-lal-meghwal-a667a937b
+
+---
+📍 Udaipur, Rajasthan, India
