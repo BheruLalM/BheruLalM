@@ -20,7 +20,7 @@ system design, backend architecture, and scalable software systems.
 - **FilmiWorld** – Entertainment discovery platform
 
 ### 🌐 Links
-- Portfolio: https://your-vercel-site.vercel.app
+- Portfolio: https://portfolio-website-chi-lyart-20.vercel.app/cv
 - LinkedIn: https://linkedin.com/in/bheru-lal-meghwal-a667a937b
 
 ---
